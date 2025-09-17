@@ -1,0 +1,77 @@
+builtin:
+  disabled:
+    - undefined.cursor-themes
+disabled:
+  - id: BaiduComate.comate
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: ms-python.vscode-pylance
+    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-vscode.cpptools
+    uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
+  - id: ms-vscode.references-view
+    uuid: dc489f46-520d-4556-ae85-1f9eab3c412d
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+enabled:
+  - id: anysphere.cursorpyright
+    uuid: d7f9f831-2239-4783-9d06-18d27f285818
+  - id: anysphere.pyright
+    uuid: d990d7f1-60b6-4234-91a7-d146a42bb230
+  - id: coderabbit.coderabbit-vscode
+    uuid: 0b15b6fc-4458-4546-8b5e-bba85e07df24
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: giscafer.leek-fund
+    uuid: 4a2ede21-b511-470b-a70b-4bffee6965e5
+  - id: golang.go
+    uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: MS-CEINTL.vscode-language-pack-zh-hans
+    uuid: e4ee7751-6514-4731-9cdb-7580ffa9e70b
+  - id: ms-pyright.pyright
+    uuid: 593fe6a5-513e-4cb3-abfb-5b9f5fe39802
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-toolsai.vscode-jupyter-cell-tags
+    uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
+  - id: ms-toolsai.vscode-jupyter-slideshow
+    uuid: e153ca70-b543-4865-b4c5-b31d34185948
+  - id: ms-vscode.cmake-tools
+    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
+  - id: ms-vscode.cpptools-extension-pack
+    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
+  - id: ms-vscode.cpptools-themes
+    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
+  - id: redhat.fabric8-analytics
+    uuid: efcb43ca-77e6-43e4-8ddc-ada617cb34bd
+  - id: redhat.java
+    uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+  - id: twxs.cmake
+    uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
+  - id: VisualStudioExptTeam.intellicode-api-usage-examples
+    uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
+  - id: VisualStudioExptTeam.vscodeintellicode
+    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
+  - id: vscjava.vscode-gradle
+    uuid: a226f06e-9b5e-493b-b92a-553d3572f969
+  - id: vscjava.vscode-java-debug
+    uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
+  - id: vscjava.vscode-java-dependency
+    uuid: 7865e561-1c83-410e-9b99-aabada597a7e
+  - id: vscjava.vscode-java-pack
+    uuid: 96f11e1f-1a46-4592-b084-f025b2c2a81f
+  - id: vscjava.vscode-java-test
+    uuid: 67c06b0d-1891-42ca-b2a8-113e79bff069
+  - id: vscjava.vscode-maven
+    uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
